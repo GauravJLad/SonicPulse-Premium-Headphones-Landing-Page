@@ -43,6 +43,8 @@ Crafted using **HTML, CSS & JavaScript**, this project showcases clean layout, p
 
 🔗 **GitHub Pages:**
 
+[https://gauravjlad.github.io/SonicPulse-Premium-Headphones-Landing-Page](https://gauravjlad.github.io/SonicPulse-Premium-Headphones-Landing-Page)
+
 ---
 
 ## 📧 Let's Connect 🎧
